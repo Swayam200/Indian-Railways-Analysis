@@ -4,13 +4,13 @@
 
 ---
 
-### ## Project Overview
+### Project Overview
 
 This project is the capstone for the **Google Data Analytics Professional Certificate**. The objective is to analyze a synthetic dataset of Indian Railway ticket bookings to identify key factors that influence the confirmation of waitlisted tickets. The goal is to provide actionable insights for travelers to help them make smarter booking decisions.
 
 ---
 
-### ## Key Insights & Visualizations
+### Key Insights & Visualizations
 
 #### **1. The Quota & Class Interaction Matrix**
 > The combination of travel class and ticket quota is the most powerful predictor of confirmation. The 'Ladies' quota in 1AC has the highest confirmation rate, while the 'Tatkal' quota in Sleeper has the lowest.
@@ -24,7 +24,7 @@ This project is the capstone for the **Google Data Analytics Professional Certif
 
 ---
 
-### ## Actionable Recommendations
+### Actionable Recommendations
 
 | For... | Recommendation | Rationale |
 | :--- | :--- | :--- |
@@ -34,14 +34,14 @@ This project is the capstone for the **Google Data Analytics Professional Certif
 
 ---
 
-### ## Project Limitations
+### Project Limitations
 
 - **Synthetic Data:** The dataset is synthetically generated, which means some variables lack real-world randomness.
 - **Constant Booking Window:** All bookings were made exactly 244 days before the journey, removing a key analytical dimension.
 
 ---
 
-### ## How to Use This Repository
+### How to Use This Repository
 
 1.  Clone the repository: `git clone [your-repo-link]`
 2.  The full analysis can be found in the `notebooks/eda.ipynb` file.
