@@ -13,7 +13,7 @@ This project is the capstone for the **Google Data Analytics Professional Certif
 ### Key Insights & Visualizations
 
 #### **1. The Quota & Class Interaction Matrix**
-> The combination of travel class and ticket quota is the most powerful predictor of confirmation. The 'Ladies' quota in 1AC has the highest confirmation rate, while the 'Tatkal' quota in Sleeper has the lowest.
+> The combination of travel class and ticket quota is the most powerful predictor of confirmation. The 'Ladies' quota in 2AC has the highest confirmation rate, while the 'Tatkal' quota in Sleeper has the lowest.
 
 ![Heatmap Visualization](images/heatmap.png)
 
