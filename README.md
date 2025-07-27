@@ -15,13 +15,12 @@ This project is the capstone for the **Google Data Analytics Professional Certif
 #### **1. The Quota & Class Interaction Matrix**
 > The combination of travel class and ticket quota is the most powerful predictor of confirmation. The 'Ladies' quota in 1AC has the highest confirmation rate, while the 'Tatkal' quota in Sleeper has the lowest.
 
-![Heatmap Visualization](link-to-your-heatmap-image.png)
-*(**How to add image:** Upload your chart screenshot to your GitHub repository, then replace `link-to-your-heatmap-image.png` with the direct link to that image.)*
+![Heatmap Visualization](images/heatmap.png)
 
 #### **2. The Group Size Effect Across Classes**
 > The negative impact of traveling in a group is most severe in premium classes. For groups of 4 or more, it is statistically better to book in 3AC or Sleeper class.
 
-![Group Size Plot](link-to-your-groupsize-plot.png)
+![Group Size Plot](images/barchart3.png)
 
 ---
 
