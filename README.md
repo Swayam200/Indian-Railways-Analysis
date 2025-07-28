@@ -6,7 +6,7 @@
 
 ### Project Overview
 
-This project is the capstone for the **Google Data Analytics Professional Certificate**. The objective is to analyze a synthetic dataset of Indian Railway ticket bookings to identify key factors that influence the confirmation of waitlisted tickets. The goal is to provide actionable insights for travelers to help them make smarter booking decisions.
+This project is the capstone for the **Google Data Analytics Professional Certificate**. The objective is to analyze a synthetic dataset of Indian Railway ticket bookings to identify interesting trends and key factors that influence the confirmation of waitlisted tickets. The goal is to provide actionable insights for travelers to help them make smarter booking decisions.
 
 ---
 
